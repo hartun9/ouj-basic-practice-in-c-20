@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * @brief キーボードから年齢読み取って、
+ * 5年後の年齢を表示するプログラム
+ *
+ * @return 0
+ */
 int main(void) {
   int age;
 
